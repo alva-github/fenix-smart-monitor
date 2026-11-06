@@ -1,0 +1,9 @@
+#pragma once
+
+#define XPOWERS_CHIP_AXP2101
+
+#define PIN_ES7210_BCLK 16
+#define PIN_ES7210_LRCK 7
+#define PIN_ES7210_DIN 15
+#define PIN_ES7210_MCLK 5
+#define PIN_ES8311_DOUT 6
